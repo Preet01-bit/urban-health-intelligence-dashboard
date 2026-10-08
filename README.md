@@ -1,2 +1,9 @@
-# urban-health-intelligence-dashboard
-AI-augmented NUHM monitoring - forecasting + LLM
+date,phc_id,anc_coverage,immunization_rate,ncd_screening
+2025-01-01,PHC01,84,78,65
+2025-01-15,PHC01,82,76,67
+2025-02-01,PHC02,85,77,70
+2025-02-15,PHC02,81,74,68
+2025-03-01,PHC03,79,73,66
+2025-03-15,PHC03,83,75,69
+2025-04-01,PHC01,86,79,71
+2025-04-15,PHC02,80,72,65
